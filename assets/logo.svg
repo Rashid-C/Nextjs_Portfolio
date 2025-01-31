@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100">
+  <text x="10" y="70" font-family="Arial, sans-serif" font-size="70" font-weight="600">Rashid</text>
+  <text x="200" y="70" font-family="Arial, sans-serif" font-size="70" font-weight="600">C</text>
+  <circle cx="280" cy="70" r="8" fill="#FF0066"/>
+</svg>
